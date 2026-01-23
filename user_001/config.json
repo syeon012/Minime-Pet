@@ -31,20 +31,21 @@
     { 
       "name": "바보", 
       "file": "Dummy.png",
-      "width": 150,
-      "top": -15,
-      "left": 0
+      "width": 145,
+      "top": -23,
+      "left": -5
     },
     { 
       "name": "박스", 
       "file": "Box.png",
       "width": 132,
       "top": -20,
-      "left": 0
+      "left": -1
     }
   ]
 
 }
+
 
 
 
