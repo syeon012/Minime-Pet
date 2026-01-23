@@ -29,15 +29,23 @@
       "left": -30
     },
     { 
+      "name": "바보", 
+      "file": "dummy.png",
+      "width": 120,
+      "top": -38,
+      "left": -30
+    },
+    { 
       "name": "박스", 
       "file": "Box.png",
       "width": 130,
       "top": -20,
-      "left": 0
+      "left": -4
     }
   ]
 
 }
+
 
 
 
