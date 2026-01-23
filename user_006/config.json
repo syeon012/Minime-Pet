@@ -1,5 +1,6 @@
 {
   "userName": "dog",
+  "heartKey": "love2",
   "scripts": [
     "좋은 아침!",
     "우하하!!",
@@ -22,4 +23,5 @@
       "left": 40
     }
   ]
+
 }
