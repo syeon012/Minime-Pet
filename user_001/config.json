@@ -30,7 +30,7 @@
     },
     { 
       "name": "바보", 
-      "file": "dummy.png",
+      "file": "Dummy.png",
       "width": 120,
       "top": -38,
       "left": -30
@@ -40,11 +40,12 @@
       "file": "Box.png",
       "width": 130,
       "top": -20,
-      "left": -4
+      "left": -1
     }
   ]
 
 }
+
 
 
 
