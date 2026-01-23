@@ -1,0 +1,28 @@
+{
+  "userName": "99",
+  "heartKey": "love2",
+  "scripts": [
+    "나 좋아?",
+    "ㅁㅅㅁ",
+    "사랑해"
+  ],
+  "playScripts": "🎶 같이 들을까?",
+  "alarmScripts": "⏰ 이제 끝났어?",
+  "touchScripts": ["♥️", "쓰다듬게?"],
+  "hats": [
+    { 
+      "name": "체력바", 
+      "file": "HP_Bar.png",
+      "width": 60, 
+      "top": -30, 
+      "left": 40
+    },
+    { 
+      "name": "루해달카", 
+      "file": "Rusalka.png",
+      "width": 190,
+      "top": -43,
+      "left": -30
+    }
+  ]
+}

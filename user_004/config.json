@@ -1,0 +1,28 @@
+{
+  "userName": "98",
+  "heartKey": "love2",
+  "scripts": [
+    "ㅍㅅㅍ",
+    "힘내",
+    "바보"
+  ],
+  "playScripts": "🎶 좋은 노래네⋯",
+  "alarmScripts": "⏰ 수고했어⋯",
+  "touchScripts": ["♥️", "간지러워···"],
+  "hats": [
+    { 
+      "name": "체력바", 
+      "file": "HP_Bar.png",
+      "width": 60, 
+      "top": -30, 
+      "left": 40
+    },
+    { 
+      "name": "베길냥", 
+      "file": "Virgil.png",
+      "width": 190,
+      "top": -43,
+      "left": -30
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userName": "Akf1229",
+  "heartKey": "love1",
+  "scripts": [
+    "헤헤",
+    "ㅇ3ㅇ",
+    "놀자놀자!",
+    "바보",
+    "꺅!"
+
+  ],
+  "playScripts": "🎻 지금은 연주 중이야~",
+  "alarmScripts": "⏰ 시간이 다 됐어~!",
+  "touchScripts": ["♥️", "간지러워!", ">ㅁ<"],
+  "hats": [
+    { 
+      "name": "체력바", 
+      "file": "HP_Bar.png",
+      "width": 60, 
+      "top": -30, 
+      "left": 40
+    }
+  ]
+}
