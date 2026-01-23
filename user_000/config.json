@@ -21,5 +21,20 @@
       "top": -30, 
       "left": 40
     }
+    { 
+      "name": "멍칸포", 
+      "file": "Arthur.png",
+      "width": 190,
+      "top": -43,
+      "left": -30
+    }
+    { 
+      "name": "박스", 
+      "file": "Box.png",
+      "width": 0,
+      "top": 0,
+      "left": 0
+    }
   ]
+
 }
