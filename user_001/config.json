@@ -29,6 +29,13 @@
       "left": -30
     },
     { 
+      "name": "얘 바보", 
+      "file": "YouDummy.png",
+      "width": 130,
+      "top": -28,
+      "left": 0
+    },
+    { 
       "name": "바보", 
       "file": "Dummy.png",
       "width": 145,
@@ -41,10 +48,18 @@
       "width": 132,
       "top": -20,
       "left": -1
-    }
+    },
+    { 
+      "name": "이용불가", 
+      "file": "19X.png",
+      "width": 130,
+      "top": -28,
+      "left": 0
+    },
   ]
 
 }
+
 
 
 
