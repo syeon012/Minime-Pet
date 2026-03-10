@@ -60,12 +60,13 @@
       "name": "파지지지지직", 
       "file": "electrocution.png",
       "width": 130,
-      "top": -20,
-      "left": 0
+      "top": -30,
+      "left": -80
     }
   ]
 
 }
+
 
 
 
