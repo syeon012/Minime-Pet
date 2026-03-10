@@ -58,14 +58,15 @@
     },
     { 
       "name": "파지지지지직", 
-      "file": "electrocutione.png",
+      "file": "electrocution.png",
       "width": 130,
-      "top": -140,
+      "top": -0,
       "left": 0
     }
   ]
 
 }
+
 
 
 
