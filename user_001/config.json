@@ -64,11 +64,11 @@
       "left": 0
     },
     { 
-      "name": "파지지지지직", 
-      "file": "electrocution.png",
-      "width": 130,
-      "top": -30,
-      "left": -73
+      "name": "시네먀", 
+      "file": "C.png",
+      "width": 300,
+      "top": -60,
+      "left": 0
     }
   ]
 
