@@ -66,9 +66,9 @@
     { 
       "name": "시네먀", 
       "file": "C.png",
-      "width": 300,
-      "top": -60,
-      "left": 0
+      "width": 500,
+      "top": -85,
+      "left": -70
     }
   ]
 
