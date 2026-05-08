@@ -1,0 +1,66 @@
+{
+  "userName": "MS",
+  "heartKey": "love3",
+  "scripts": [
+    "어디든 같이 걸어가 줄게.",
+    "이게 내가 바라던 바야.",
+    "미움이라도 받을까 봐? 괜한 걱정이야!",
+    "곁에 있다는 사실이 이젠 당연한 건데도⋯⋯.",
+    "^_^",
+    "아담!",
+    "파트너.",
+    "🩵"
+  ],
+  "playScripts": "🎹 노래 좋은데?",
+  "alarmScripts": "⏰ 일어나!",
+  "touchScripts": ["앗?!", "간지러워!", "뭐야?"],
+  "hats": [
+    { 
+      "name": "체력바", 
+      "file": "HP_Bar.png",
+      "width": 60, 
+      "top": -30, 
+      "left": 40
+    },
+    { 
+      "name": "얘 바보", 
+      "file": "YouDummy.png",
+      "width": 130,
+      "top": -28,
+      "left": 0
+    },
+    { 
+      "name": "바보", 
+      "file": "Dummy.png",
+      "width": 145,
+      "top": -23,
+      "left": -5
+    },
+    { 
+      "name": "박스", 
+      "file": "Box.png",
+      "width": 132,
+      "top": -20,
+      "left": -1
+    },
+    { 
+      "name": "이용불가", 
+      "file": "19X.png",
+      "width": 130,
+      "top": -60,
+      "left": 0
+    },
+    { 
+      "name": "파지지지지직", 
+      "file": "electrocution.png",
+      "width": 130,
+      "top": -30,
+      "left": -73
+    }
+  ]
+}
+
+
+
+
+
