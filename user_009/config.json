@@ -1,1 +1,61 @@
-
+{
+  "userName": "Jpc0412",
+  "heartKey": "love1",
+  "scripts": [
+    "그렇담, 느긋하게⋯⋯⋯",
+    "나보다 일찍 철들지 말아 줘.",
+    "네 목소리가 얼마나 그리웠는지 몰라.",
+    "널 지키기 위해, 다름 아닌 널 포기해야만 했으니까.",
+    "파트너",
+    "모리슨.",
+    "^_^",
+    "💛"
+  ],
+  "playScripts": "🎹 같이 들을래?",
+  "alarmScripts": "⏰ 시간이 다 됐어.",
+  "touchScripts": ["앗⋯", "간지러운데⋯", "흐음"],
+  "hats": [
+    { 
+      "name": "체력바", 
+      "file": "HP_Bar.png",
+      "width": 60, 
+      "top": -30, 
+      "left": 40
+    },
+    { 
+      "name": "얘 바보", 
+      "file": "YouDummy.png",
+      "width": 130,
+      "top": -28,
+      "left": 0
+    },
+    { 
+      "name": "바보", 
+      "file": "Dummy.png",
+      "width": 145,
+      "top": -23,
+      "left": -5
+    },
+    { 
+      "name": "박스", 
+      "file": "Box.png",
+      "width": 132,
+      "top": -20,
+      "left": -1
+    },
+    { 
+      "name": "이용불가", 
+      "file": "19X.png",
+      "width": 130,
+      "top": -60,
+      "left": 0
+    },
+    { 
+      "name": "파지지지지직", 
+      "file": "electrocution.png",
+      "width": 130,
+      "top": -30,
+      "left": -73
+    }
+  ]
+}
