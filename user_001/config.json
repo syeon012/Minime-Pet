@@ -91,7 +91,7 @@
     { 
       "name": "아이스크림",
       "file": "icecream.png",
-      "width": 145,
+      "width": 142,
       "top": 60,
       "left": -5,
       "position": "absolute",
