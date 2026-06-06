@@ -30,7 +30,9 @@
       "file": "Arthur.png",
       "width": 190,
       "top": -43,
-      "left": -30
+      "left": -30,
+      "position": "absolute",
+      "box-sizing": "border-box"
     },
     
     { 
@@ -67,6 +69,15 @@
       "width": 130,
       "top": -30,
       "left": -73
+    },
+    { 
+      "name": "쿨쿨",
+      "file": "sleep.png",
+      "width": 145,
+      "top": -35,
+      "left": -5,
+      "position": "absolute",
+      "box-sizing": "border-box"
     }
   ]
 }
