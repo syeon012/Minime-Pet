@@ -87,6 +87,15 @@
       "left": -5,
       "position": "absolute",
       "box-sizing": "border-box"
+    },
+    { 
+      "name": "아이스크림",
+      "file": "icecream.png",
+      "width": 145,
+      "top": 10,
+      "left": -5,
+      "position": "absolute",
+      "box-sizing": "border-box"
     }
   ]
 }
