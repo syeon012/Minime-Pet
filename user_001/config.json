@@ -26,7 +26,9 @@
       "file": "Jasper.png",
       "width": 190,
       "top": -43,
-      "left": -30
+      "left": -30,
+      "position": "absolute",
+      "box-sizing": "border-box"
     },
     { 
       "name": "얘 바보", 
@@ -82,7 +84,9 @@
       "file": "sleep.png",
       "width": 145,
       "top": -35,
-      "left": -5
+      "left": -5,
+      "position": "absolute",
+      "box-sizing": "border-box"
     }
   ]
 }
