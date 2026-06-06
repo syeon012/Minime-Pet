@@ -92,7 +92,7 @@
       "name": "아이스크림",
       "file": "icecream.png",
       "width": 145,
-      "top": 50,
+      "top": 60,
       "left": -5,
       "position": "absolute",
       "box-sizing": "border-box"
