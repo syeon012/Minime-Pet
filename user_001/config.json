@@ -69,9 +69,22 @@
       "width": 500,
       "top": 1,
       "left": 1
+    },
+    { 
+      "name": "파지지지지직", 
+      "file": "electrocution.png",
+      "width": 130,
+      "top": -30,
+      "left": -73
+    },
+    { 
+      "name": "쿨쿨",
+      "file": "sleep.png",
+      "width": 145,
+      "top": -23,
+      "left": -5
     }
   ]
-
 }
 
 
